@@ -14,11 +14,15 @@ The project serves as a practical demonstration of secure cloud-based IoT commun
 
 # Demo Screenshots
 
-Replace the placeholders below with your screenshots.
+
+---
 
 ### Dashboard
 
 <img width="1849" height="942" alt="Screenshot from 2026-07-07 18-27-46" src="https://github.com/user-attachments/assets/d3e39fd3-0310-49ea-9848-b29f38172d78" />
+
+
+---
 
 
 ### AWS IoT MQTT Test Client
@@ -26,9 +30,15 @@ Replace the placeholders below with your screenshots.
 <img width="1848" height="878" alt="Screenshot from 2026-07-07 18-47-09" src="https://github.com/user-attachments/assets/41d517d9-efe9-4a1f-955d-49cd5c0cb099" />
 
 
+---
+
+
 ### MongoDB Data
 
 <img width="1848" height="1054" alt="Screenshot from 2026-07-07 18-47-28" src="https://github.com/user-attachments/assets/701a01b4-59b2-4692-bcb4-02c18d362540" />
+
+
+---
 
 
 ### Docker Containers
@@ -36,6 +46,13 @@ Replace the placeholders below with your screenshots.
 <img width="1848" height="698" alt="Screenshot from 2026-07-07 16-17-00" src="https://github.com/user-attachments/assets/894b5539-88e5-439a-927a-fd8e1d1b9b44" />
 
 <img width="820" height="183" alt="Screenshot from 2026-07-07 17-31-14" src="https://github.com/user-attachments/assets/977bd46c-7593-4eb1-957c-1d524e58521d" />
+
+
+---
+
+### Hardware Setup
+
+<img width="804" height="1167" alt="image" src="https://github.com/user-attachments/assets/887f9edd-0af5-4c32-a2e1-25713fca382c" />
 
 
 ---
