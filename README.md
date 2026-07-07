@@ -15,7 +15,6 @@ The project serves as a practical demonstration of secure cloud-based IoT commun
 # Demo Screenshots
 
 
----
 
 ### Dashboard
 
