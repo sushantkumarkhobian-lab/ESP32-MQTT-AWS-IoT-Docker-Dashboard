@@ -8,8 +8,8 @@
 #define DHTTYPE DHT22
 
 
-const char* ssid = "vivoV27";
-const char* password = "mujhenahipata";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 
 // AWS IoT Core endpoint
