@@ -325,7 +325,7 @@ These files are excluded from Git using `.gitignore`.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ESP32-MQTT-AWS-IoT-Docker-Dashboard.git
+git clone https://github.com/sushantkumarkhobian-lab/ESP32-MQTT-AWS-IoT-Docker-Dashboard.git
 cd ESP32-MQTT-AWS-IoT-Docker-Dashboard
 ```
 
