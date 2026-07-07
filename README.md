@@ -75,19 +75,20 @@ docs/serial-monitor.png
                 MQTT over TLS (8883)
                           |
                           v
-                 AWS IoT Core Broker
+                  AWS IoT Core Broker
                           |
-                MQTT Subscription
+                  MQTT Subscription
                           |
                           v
-          Dockerized Node.js Backend
+               Dockerized Node.js Backend
                           |
+                          v
                     MongoDB Database
                           |
                      REST API Server
                           |
                           v
-            Dockerized React Dashboard
+               Dockerized React Dashboard
 ```
 
 ---
