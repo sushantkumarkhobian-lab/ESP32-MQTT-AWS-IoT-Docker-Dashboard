@@ -6,9 +6,6 @@ services:
     image: mongo:7
     ports:
       - "27017:27017"
-    volumes:
-      mongodb_data:
-
 
   backend:
     build:
@@ -19,7 +16,6 @@ services:
       - mongodb
     volumes:
       - ./backend/certs:/app/certs
-
 
   frontend:
     build:
