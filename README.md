@@ -435,6 +435,12 @@ Generate your own certificates using AWS IoT Core before running the project.
 
 ---
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 # Author
 
 **Sushant Kumar Khobian**
